@@ -73,8 +73,8 @@ public class Game extends javax.swing.JFrame {
         words[47]="ulna";
         words[48]="vertebra";
         words[49]="vertebral column";
-        words[50]="";
-                        
+        words[50]="serotonin";
+       words[51] = "food";                 
        
                 
         
